@@ -7,6 +7,7 @@ O Gestão Hotel é um projeto de nível intermediário desenvolvido por Lucas Ga
 - Gerenciamento de Recursos Humanos (RH): Cadastro, consulta e alteração de funcionários, incluindo assalariados, horistas e comissionados.
 - Gerenciamento de Vendas: Funcionários comissionados têm acesso à plataforma para realizar vendas.
 - Atendimento: Funcionários atendentes podem fazer login na plataforma para cadastrar clientes e seus respectivos quartos.
+- Painel admin: O Login/Senha padrão para o primeiro acesso é `admin/admin`. 
 
 ## Status do Projeto
 
