@@ -14,8 +14,7 @@ O projeto está atualmente estável e encontra-se em fase de testes.
 
 ## Pré-requisitos
 
-- Java [versão] ou superior instalado no sistema.
-- [Outras dependências, se houver]
+- JDK instalado no sistema.
 
 ## Contato
 
