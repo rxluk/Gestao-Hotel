@@ -1,7 +1,5 @@
 # Gestão Hotel
 
-[Descrição do projeto]
-
 O Gestão Hotel é um projeto de nível intermediário desenvolvido por Lucas Gabriel Costa durante o curso de Programação Orientada a Objetos (POO). O software possui duas versões, uma com interface gráfica e outra sem, e tem como objetivo auxiliar nas funcionalidades de um hotel.
 
 ## Funcionalidades
