@@ -10,7 +10,7 @@ O Gestão Hotel é um projeto de nível intermediário desenvolvido por Lucas Ga
 
 ## Status do Projeto
 
-O projeto está atualmente estável e encontra-se em fase de testes.
+- O projeto está atualmente estável e encontra-se em fase de testes.
 
 ## Pré-requisitos
 
